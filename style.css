@@ -1,6 +1,17 @@
 body {
-    background-color: blue
+    background-color: blue;
     color:deepskyblue;
     font-family :'Times New Roman', Times, serif;
     margin-bottom: 100px; 
+}
+
+header {
+    border-bottom: solid 2px purple;
+    padding: 2px;
+    font-size: 32px;
+    color: black;
+}
+
+.chamada {
+    
 }
